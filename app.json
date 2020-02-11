@@ -1,0 +1,6 @@
+{
+  "name": "Cars database",
+  "description": "Filter the car",
+  "image": "heroku/python",
+  "keywords": ["python", "django" ]
+}
