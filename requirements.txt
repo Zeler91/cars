@@ -1,2 +1,3 @@
 django
 django-heroku
+python-dotenv==0.11.0
